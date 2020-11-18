@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\vswork\repos\openglproject\openglproject\camera.h(66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject\openglproject\camera.h(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject\openglproject\player.h(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject\openglproject\player.h(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject\openglproject\main.cpp(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject\openglproject\main.cpp(68): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject\openglproject\main.cpp(255): warning C4018: “<”: 有符号/无符号不匹配
+e:\vswork\repos\openglproject\openglproject\main.cpp(300): warning C4018: “<”: 有符号/无符号不匹配
+  openGlProject.vcxproj -> E:\VSWork\repos\openGlProject\Debug\openGlProject.exe
