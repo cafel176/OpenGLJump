@@ -5,7 +5,7 @@
 地板会一左一右自动生成，落地时镜头跟随至新地板。<br/>
 windows系统可以下载Release/project.zip来运行体验<br/>
 <br/>
-An OpenGL project using glad, glfw, glm libraries and built by C++.<br/>
+An OpenGL game using glad, glfw, glm libraries and built by C++.<br/>
 Click the screen for a long time, the longer you click the screen, the farther the box jump.<br/>
 Jump to more platform to get a higher score!<br/>
 If you are using windows, you can download Release/project.zip to execute this project on your computer.<br/>
