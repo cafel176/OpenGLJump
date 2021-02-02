@@ -3,6 +3,7 @@
 箱子和地板采用着色器绘制。<br/>
 跳跃时轨迹采用抛物线，且箱子会自转<br/>
 地板会一左一右自动生成，落地时镜头跟随至新地板。<br/>
+windows系统可以下载Release/project.zip来运行体验<br/>
 <br/>
 An OpenGL project using glad, glfw, glm libraries and built by C++.<br/>
 Click the screen for a long time, the longer you click the screen, the farther the box jump.<br/>
